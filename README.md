@@ -1,4 +1,4 @@
-🔐 Password Strength Tester - README
+🔐 Password Strength Tester
 📌 Overview
 This Password Strength Tester evaluates the security of a password based on various criteria and provides suggestions for improvement.
 
